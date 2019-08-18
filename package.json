@@ -1,0 +1,23 @@
+{
+  "name": "example-nodejs-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.1.1",
+    "sequelize": "^5.15.0",
+    "sqlite3": "^4.1.0",
+    "util": "^0.12.1",
+    "uuid": "^3.3.2",
+    "uuid-validate": "0.0.3"
+  }
+}
